@@ -3,7 +3,8 @@ DualSpeaker-for-XiaomiMI8Lite PLATINA
 ncandroid84 @ xda-developers
 -
 Initial Release: v1.0 13/05/2019
-         Update: v1.1 14/05/2019
+         
+Update: v1.1 14/05/2019
 Changes: A mixer was added missing to better 
 control the sound and that the effect is more effective.
 
