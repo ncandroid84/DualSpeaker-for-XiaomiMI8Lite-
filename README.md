@@ -18,3 +18,7 @@ This mod is compatible with any rom with android 9.0 Pie
 Credits:
 -
 @Dante63 @xda-developer for tutorial and colaboration
+
+Support:
+-
+https://forum.xda-developers.com/mi-8-Lite/themes/mod-dual-speaker-xiaomi-mi8-lite-t3919161
