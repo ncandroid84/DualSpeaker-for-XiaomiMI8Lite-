@@ -54,8 +54,6 @@ REPLACE_EXAMPLE="
 
 # Construct your own list here
 REPLACE="
-/system/vendor/etc/mixer_paths.xml
-/system/vendor/etc/mixer_paths_mtp.xml
 "
 
 ##########################################################################################
